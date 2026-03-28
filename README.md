@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Debug Env Environment Server
 emoji: 🎧
@@ -253,3 +254,7 @@ debug_env/
     ├── app.py             # FastAPI application (HTTP + WebSocket endpoints)
     └── Dockerfile         # Container image definition
 ```
+=======
+# newone
+demo project
+>>>>>>> 8bac3be40c2100025e8ff725d2df3cb8b7c979a5
